@@ -82,13 +82,13 @@ I.T.S Engineering College, Greater Noida (2023 – 2027)
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,linux"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,linux,kubernetes"/>
 </p>
 
 ### AI / Blockchain
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,solidity"/>
+<img src="https://skillicons.dev/icons?i=rust,solana,anchor"/>
 </p>
 
 ---
@@ -169,11 +169,11 @@ A blockchain-inspired real-time voting platform.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahu-sunil-cpu&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahu-sunil-cpu&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 
 <img height="170" src="https://streak-stats.demolab.com?user=Sahu-sunil-cpu&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahu-sunil-cpu&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahu-sunil-cpu&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
 </div>
 
@@ -211,16 +211,3 @@ A blockchain-inspired real-time voting platform.
 
 ---
 
-<div align="center">
-
-## 💡 *"Building scalable software, one commit at a time."*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sahu-sunil-cpu/Sahu-sunil-cpu/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
